@@ -1,0 +1,187 @@
+[
+  {
+    "id": "playnest-toys-1",
+    "title": "Nest Building Set",
+    "price": 48,
+    "description": "Modular wooden blocks",
+    "category": "Build",
+    "image": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=900&q=80",
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": 14,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Build"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Nest Building Set?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-2",
+    "title": "Orbit Race Track",
+    "price": 62,
+    "description": "Magnetic loop circuit",
+    "category": "Race",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 23,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Race"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Orbit Race Track?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-3",
+    "title": "Story Loom Kit",
+    "price": 36,
+    "description": "Felt characters + stage",
+    "category": "Story",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=900&q=80",
+    "badge": "New",
+    "rating": 4.5,
+    "reviews": 32,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Story"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Story Loom Kit?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-4",
+    "title": "Tide Pool Sensory",
+    "price": 29,
+    "description": "Water play tray set",
+    "category": "Sensory",
+    "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 41,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Sensory"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Tide Pool Sensory?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-5",
+    "title": "Sky Kite Duo",
+    "price": 24,
+    "description": "Two beginner kites",
+    "category": "Outdoor",
+    "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 50,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Outdoor"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Sky Kite Duo?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  }
+]
