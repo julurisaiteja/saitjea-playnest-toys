@@ -1,0 +1,187 @@
+[
+  {
+    "id": "playnest-toys-6",
+    "title": "Maker Workshop Box",
+    "price": 55,
+    "description": "Monthly craft subscription",
+    "category": "Maker",
+    "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 59,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Maker"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Maker Workshop Box?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-7",
+    "title": "Pixel Soft Friends",
+    "price": 22,
+    "description": "Plush duo set",
+    "category": "Plush",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 68,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Plush"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Pixel Soft Friends?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-8",
+    "title": "Comic Sticker Vault",
+    "price": 16,
+    "description": "200+ vinyl stickers",
+    "category": "Craft",
+    "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 77,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Craft"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Comic Sticker Vault?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-9",
+    "title": "Galaxy Puzzle Sphere",
+    "price": 34,
+    "description": "108-piece orbit puzzle",
+    "category": "Puzzle",
+    "image": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 86,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Puzzle"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Galaxy Puzzle Sphere?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "playnest-toys-10",
+    "title": "Mini Drum Parade",
+    "price": 41,
+    "description": "Rhythm + light pad",
+    "category": "Music",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 95,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Age": "3+ unless noted",
+      "Material": "BPA-free plastics / wood",
+      "Play": "Music"
+    },
+    "options": [
+      "Standard",
+      "Gift wrap",
+      "Sibling duo"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Mini Drum Parade?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  }
+]
